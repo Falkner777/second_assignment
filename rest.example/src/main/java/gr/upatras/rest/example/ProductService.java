@@ -25,7 +25,7 @@ public class ProductService implements IProductService {
 		products.add(new Product(103, "Laptop", "LHP29OCP", 24000.00, 1));
 		products.add(new Product(104, "Air Conditioner", "ACLG66721", 30000.00, 5));
 		products.add(new Product(105, "Refrigerator ", "12WP9087", 10000.00, 4));
-        products.add(new Product(106, "Air Frier", "AASD11AD", 150.00, 10))
+        products.add(new Product(106, "Air Frier", "AASD11AD", 150.00, 10));
 	}
 
 	/**
